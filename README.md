@@ -19,8 +19,7 @@ I'm using Nuxt.js, Tailwind, Firebase (and many more) to make the magic happens.
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- [RadioSwitch](https://www.radioswit.ch) Switching radio stations by defined time slots.
 
 ### 🌱 I’m learning
 
